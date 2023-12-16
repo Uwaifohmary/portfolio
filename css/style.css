@@ -1,9 +1,4 @@
-/*
- * Author by FreeHTML5.co
- * Twitter: https://twitter.com/fh5co
- * Facebook: https://fb.com/fh5co
- * URL: https://freehtml5.co
- */
+
 /* Fonts */
 @font-face {
   font-family: 'Calisto-MT';
@@ -400,6 +395,7 @@
   outline: none; }
 
 .fh5co-books {
+  background-color: #fdefe0;
   margin-bottom: 122px; }
   .fh5co-books .universal-h2 {
     margin-bottom: 50px;
