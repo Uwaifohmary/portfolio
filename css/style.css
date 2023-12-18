@@ -1,4 +1,9 @@
-
+/*
+ * Author by FreeHTML5.co
+ * Twitter: https://twitter.com/fh5co
+ * Facebook: https://fb.com/fh5co
+ * URL: https://freehtml5.co
+ */
 /* Fonts */
 @font-face {
   font-family: 'Calisto-MT';
@@ -395,19 +400,21 @@
   outline: none; }
 
 .fh5co-books {
-  background-color: #fdefe0;
+  background-color: #633607;
   margin-bottom: 122px; }
   .fh5co-books .universal-h2 {
+    color: #eeeeee;
     margin-bottom: 50px;
     padding-bottom: 20px; }
   .fh5co-books .books-brand-button {
     text-align: center; }
     .fh5co-books .books-brand-button .brand-button {
+      color: #fffdfd;
       font-size: 16px;
       text-transform: none;
-      border-color: #c18f59; }
+      border-color: #eeeeee; }
       .fh5co-books .books-brand-button .brand-button:hover {
-        border-color: #777; }
+        border-color: #c5c5c5; }
   @media (max-width: 1250px) {
     .fh5co-books {
       margin-bottom: 60px; } }
@@ -448,13 +455,14 @@
       visibility: visible;
       opacity: 0.7; }
   .single-book .single-book__title {
+    color: #c9c6c6;
     margin: 19px 0 18px;
     font-size: 18px; }
   .single-book .single-book__price {
     font-size: 18px;
     font-weight: 600;
     font-style: italic;
-    color: #c18f59; }
+    color: #ffffff; }
   @media (max-width: 1250px) {
     .single-book {
       margin-right: 10px; }
@@ -534,9 +542,10 @@
     margin-right: 20px; }
 
 .fh5co-blog {
-  background-color: #fdefe0;
+  background-color: #633607;
   margin-bottom: 175px; }
   .fh5co-blog .universal-h2 {
+    color: #ececec;
     margin-bottom: 55px;
     padding-bottom: 20px; }
   @media (max-width: 620px) {
@@ -571,10 +580,10 @@
       display: block;
       margin-bottom: 15px;
       font-size: 14px;
-      color: #c18f59;
+      color: #ececec;
       font-family: "Calisto-MT-Bold"; }
     .single-blog .single-blog__text p {
-      color: #777;
+      color: #ffffff;
       line-height: 21px; }
     @media (max-width: 992px) {
       .single-blog .single-blog__text {
@@ -598,7 +607,7 @@
           font-size: 13px;
           line-height: 16px; } }
   .single-blog:nth-child(even) h4 {
-    color: #c18f59; }
+    color: #f0f0f0; }
   @media (max-width: 1250px) {
     .single-blog .single-blog__img img {
       width: 100%;
@@ -626,7 +635,7 @@
       .blog-slider .slick-next {
         right: 35%; } }
   .blog-slider .span-arrow:hover {
-    color: #777;
+    color: #c9c6c6;
     border-color: #777; }
 
 .fh5co-quotes {
